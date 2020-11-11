@@ -1,0 +1,101 @@
+[
+    {
+        "name" : "彼女は旅に出る",
+        "singer" : "糍粑Yui",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/她踏上旅程.mp3",
+        "cover" : "./music/她踏上旅程.jpg",
+        "link_lrc" : "./music/糍粑Yui - 彼女は旅に出る.txt"
+        
+    },
+    {
+        "name" : "勾指起誓",
+        "singer" : "泠鸢yousa",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/泠鸢yousa - 勾指起誓（Cover：ilem）.mp3",
+        "cover" : "./music/勾指起誓.jpg",
+        "link_lrc" : "./music/勾指起誓.txt"
+        
+    },
+    {
+        "name" : "尽管我们手中空无一物",
+        "singer" : "泥鳅Niko",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/泥鳅Niko - 尽管我们手中空无一物（原曲《僕らの手には何もないけど》）（Cover RAM WIRE）.mp3",
+        "cover" : "./music/尽管我们手中空无一物.jpg",
+        "link_lrc" : "./music/尽管我们手中空无一物.txt"
+        
+    },
+    {
+        "name" : "樱花樱花想见你",
+        "singer" : "ゆう",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/ゆう十 - 樱花樱花想见你（Cover RSP）.mp3",
+        "cover" : "./music/樱花樱花想见你.jpg",
+        "link_lrc" : "./music/樱花樱花想见你.txt"
+        
+    },{
+        "name" : "ヲタみん - Letter Song",
+        "singer" : "ヲタみん",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/ヲタみん - Letter Song.mp3",
+        "cover" : "./music/Letter Song.jpg",
+        "link_lrc" : "./music/Letter Song.txt"
+        
+        
+    },
+    {
+        "name" : "彼女は旅に出る",
+        "singer" : "糍粑Yui",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/她踏上旅程.mp3",
+        "cover" : "./music/她踏上旅程.jpg",
+        "link_lrc" : "./music/糍粑Yui - 彼女は旅に出る.txt"
+        
+    },
+    {
+        "name" : "勾指起誓",
+        "singer" : "泠鸢yousa",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/泠鸢yousa - 勾指起誓（Cover：ilem）.mp3",
+        "cover" : "./music/勾指起誓.jpg",
+        "link_lrc" : "./music/勾指起誓.txt"
+        
+    },
+    {
+        "name" : "尽管我们手中空无一物",
+        "singer" : "泥鳅Niko",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/泥鳅Niko - 尽管我们手中空无一物（原曲《僕らの手には何もないけど》）（Cover RAM WIRE）.mp3",
+        "cover" : "./music/尽管我们手中空无一物.jpg",
+        "link_lrc" : "./music/尽管我们手中空无一物.txt"
+        
+    },
+    {
+        "name" : "樱花樱花想见你",
+        "singer" : "ゆう",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/ゆう十 - 樱花樱花想见你（Cover RSP）.mp3",
+        "cover" : "./music/樱花樱花想见你.jpg",
+        "link_lrc" : "./music/樱花樱花想见你.txt"
+        
+    },{
+        "name" : "ヲタみん - Letter Song",
+        "singer" : "ヲタみん",
+        "album" : "暂无",
+        "time" : "03:55",
+        "link_url" : "./music/ヲタみん - Letter Song.mp3",
+        "cover" : "./music/Letter Song.jpg",
+        "link_lrc" : "./music/Letter Song.txt"
+        
+    }
+]
